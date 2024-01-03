@@ -55,3 +55,36 @@
     height: 100px;
     width: 100PX;    
 }
+.div{
+     
+    margin: -550px 0px 0px 550px;
+    font-style: inherit;
+}
+.border{
+    border: 5px; 
+    border-style: solid; 
+    border-width: 5px; 
+    margin-right: 500px; 
+    border-radius: 10px;
+    
+    box-shadow: 10px 10px 5px black;
+}
+.div2{
+     
+    margin: -530px 0px 0px 550px;
+    font-style: inherit;
+}
+.border2{
+    border: 5px; 
+    border-style: solid; 
+    border-width: 5px;
+    margin-left: 950px; 
+    margin-right: 160px; 
+    border-radius: 10px;
+    
+    box-shadow: 10px 10px 5px black;
+}
+.li{
+    color: white;
+    font-size: 15px;
+}
