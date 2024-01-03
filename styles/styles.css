@@ -1,29 +1,29 @@
 
 #heading{
-    color: white;
+    color: black;
     margin: 150px 10px 0px 400px;
     padding: 5px 20px 5px 20px;
 }
 #paragraph{
-    color: white; 
+    color: black; 
     font-size: large; 
     padding: 10px; 
     margin: 1px 10px 1px 100px;"
 }
 .i1{
     margin: 0px 10px 10px 140px; 
-    background-color: black; 
-    color: white;
+    background-color: white; 
+    color: black;
 }
 .i2{
     margin: 10px 10px 10px 140px; 
-    background-color: black; 
-    color: aliceblue;
+    background-color: white; 
+    color: black;
 }
 .b1{
     margin: 10px 10px 10px 205px; 
     color: black; 
-    background-color: black;
+    background-color: white;
 }
 .bottomright{
    
