@@ -8,20 +8,20 @@
     color: black; 
     font-size: large; 
     padding: 10px; 
-    margin: 1px 10px 1px 100px;"
+    margin: 1px 10px 1px 130px;"
 }
 .i1{
-    margin: 0px 10px 10px 140px; 
+    margin: 0px 10px 10px 190px; 
     background-color: white; 
     color: black;
 }
 .i2{
-    margin: 10px 10px 10px 140px; 
+    margin: 10px 10px 10px 190px; 
     background-color: white; 
     color: black;
 }
 .b1{
-    margin: 10px 10px 10px 205px; 
+    margin: 10px 10px 10px 255px; 
     color: black; 
     background-color: white;
 }
