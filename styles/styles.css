@@ -41,3 +41,17 @@
 .clr{
     background-color: black;
 }
+#first{
+    text-align: center;
+    border-style: solid; 
+    border-color: black; 
+    color: aliceblue; 
+    margin-top: -7.6px; 
+    margin-left: -8px; 
+    margin-right: -8px; 
+    font-size: small;
+}
+.image{
+    height: 100px;
+    width: 100PX;    
+}
